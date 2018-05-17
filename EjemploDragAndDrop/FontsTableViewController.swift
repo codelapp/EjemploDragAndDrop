@@ -1,11 +1,3 @@
-//
-//  FontsTableViewController.swift
-//  Postcards From Paradise
-//
-//  Created by Juan Gabriel Gomila Salas on 22/6/17.
-//  Copyright © 2017 Frogames. All rights reserved.
-//
-
 import UIKit
 import MobileCoreServices
 
